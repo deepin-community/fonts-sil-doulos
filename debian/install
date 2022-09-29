@@ -1,0 +1,3 @@
+*.ttf        usr/share/fonts/truetype/doulos
+web/*.woff   usr/share/fonts-sil-doulos/woff
+debian/bug/* usr/share/bug/fonts-sil-doulos
